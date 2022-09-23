@@ -1,13 +1,13 @@
 # ijstárt 
 
-[![ijstárt](getstarted.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
+[![ijstárt](getstart.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
 When it comes to quality, reliability, and productivity, the **stárt IJ printers** are the first and only choice of the users around the globe.  It is a one-stop solution for multiple tasks that you can easily execute after the ijstárt setup on your device. ** ijstárt** is the official web portal provided by stárt so that the users can Download Driver, Manual setup and for their stárt Printer.  
 
 
 ## Download stárt Printer Drivers -ijstárt
 
-1. Open your web browser and go to ** ijstárt** 
+1. Open your web browser and go to **ijstárt** 
 2. Choose your preferred language and select your country.
 3. Login to your account by providing the required login details.
 4. Create an account if you are a new user.
